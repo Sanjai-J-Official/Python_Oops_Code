@@ -4,12 +4,12 @@ class lap:
         self.price=price
         self.ram=ram
         self.processor=processor
-
+#print statement
     def print_statement(self):
         print(f'Laptop :{self.laptop}')
         print(f'Price:{self.price}')         
         print(f'Ram:{self.ram}')
         print(f'Processor:{self.processor}')
 
-lap1=lap('Asus',12500,16,'AMD Ryzen')
+lap1=lap('Asus',12500,16,'AMD Ryzen') 
 lap1.print_statement()
