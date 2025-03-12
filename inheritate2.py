@@ -21,3 +21,4 @@ p_ass=Parent('Land','House')
 p_ass.parent_assets()
 ass=child(p_ass.assets1,p_ass.assets2,'BMW Car')
 ass.child_assets()
+

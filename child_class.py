@@ -8,3 +8,4 @@ class Student(person): #we can  access the data from  parent class to child clas
     pass
 x=Student('python',21) 
 x.printname()
+
