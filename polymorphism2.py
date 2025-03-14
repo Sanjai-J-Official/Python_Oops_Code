@@ -23,3 +23,4 @@ for i in (car1,boat1,flight1):
     print(i.brand)
     print(i.model)
     i.move() 
+    
