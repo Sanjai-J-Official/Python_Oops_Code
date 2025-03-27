@@ -9,5 +9,9 @@
 
 # pulsar =bike('start engine','No')
 # pulsar.start()
-i=[2,3,4,2,4,5]
+i=0
+n=150000
+while i<n:
+    print(i)
+    i+=1
 
