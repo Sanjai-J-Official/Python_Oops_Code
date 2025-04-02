@@ -20,6 +20,7 @@ split_txt=re.split('\s',txt,2)
 split1_txt=re.split('s',txt,3)
 replace_txt=re.sub('\s','9',txt)
 replace_txt2=re.sub('\s','9',txt,2)
+
 print(not_digit,white_space,not_white_space,every_char,not_char,find_char,particular_char,sep='\n')
 print(except_particular_char,digit_find,digit_between,two_digit_find,case_alphabet,symbol_find, sep='\n')
 print(first_white_space_index.start(),split_txt,split1_txt,replace_txt,replace_txt2,sep='\n')
