@@ -21,6 +21,8 @@ obj.stu()
    The member of the object 
    the modification with respect to obj method of obj members will be applicable for all the obj 
    which are using in particualr class
-   
+   if we tried modify  through obj mem only for obj dictionary  but the class member remains the same it will not be c
+   change
+   obj method has default parameter has 'self'
    
 """
