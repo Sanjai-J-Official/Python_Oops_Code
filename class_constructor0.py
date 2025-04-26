@@ -2,7 +2,8 @@ class A:
     def __init__(self,a,b,c):
         self.a=a 
         self.b=b
-        self.c=c 
+        self.c=c
+     
 class B(A):
     def __init__(self,a,b,c,d,e):
         super().__init__(a,b,c)

@@ -10,5 +10,9 @@ class B(A):
     def display(self):
         super().display()
         print("Display value:",self.c)
+
+
 obj=B()
 obj.display()
+
+
